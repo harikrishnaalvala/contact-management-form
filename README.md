@@ -33,7 +33,7 @@ A full-stack **Contact Management Web App** built with **HTML, CSS, Python (Flas
 
 
 
-## How to Run
+## ▶️ How to Run
 -**Clone the repository (or download the ZIP)**:
 
 -- https://github.com/harikrishnaalvala/contact-management-form

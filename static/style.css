@@ -1,0 +1,58 @@
+/* General body styling */
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Container styling */
+.container {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+h2 {
+    color: #343a40;
+    font-weight: 600;
+}
+
+/* Form inputs */
+input.form-control {
+    border-radius: 6px;
+    border: 1px solid #ced4da;
+}
+
+/* Buttons */
+.btn {
+    border-radius: 6px;
+}
+
+/* Success and warning messages */
+.alert {
+    border-radius: 6px;
+    font-size: 15px;
+}
+
+/* Table styling */
+.table th {
+    background-color: #343a40;
+    color: white;
+}
+
+.table td,
+.table th {
+    vertical-align: middle;
+}
+
+/* Add/Edit form heading */
+h4 {
+    margin-bottom: 20px;
+    color: #007bff;
+}
+
+/* Button spacing */
+.btn+.btn {
+    margin-left: 8px;
+}
